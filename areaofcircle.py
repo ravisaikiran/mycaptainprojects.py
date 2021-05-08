@@ -1,5 +1,5 @@
 radius=float(input())
-pi=3.14
+pi=22/7
 area=pi*radius*radius
 print("the area of a circle is :")
 print(area)
