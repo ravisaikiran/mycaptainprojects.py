@@ -1,5 +1,5 @@
 import operator
-input_string= input('Please enter a string ')
+input_string= input('Please enter a string:')
 def most_frequent(string):
     d = dict()
     for key in string:
